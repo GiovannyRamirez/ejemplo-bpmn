@@ -1,4 +1,4 @@
-## Laboratorio 1 - BNPM 
+## Informática II: Laboratorio 1 - BNPM 
 ### Proceso Manejo de errores Bugs
 **Integrantes**
 - *Anjhelo Giovanny Ramírez Suárez*
