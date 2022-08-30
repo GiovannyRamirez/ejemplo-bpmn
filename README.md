@@ -3,4 +3,8 @@
 **Integrantes**
 - *Anjhelo Giovanny Ramírez Suárez*
 - *Daniel Ricardo Galván Torres*
+# Dentro de este entregable se diagrama lo siguiente:
+
+1. Actividades del perfil QA tester
+2. Actividades del perfil Desarrollador
 
